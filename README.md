@@ -1,4 +1,6 @@
-<div>Hi everyone, I'm Brian Woodward and have been a profesional web debveloper since 2000.</div>
+<div><b>About me</b></br>
+  Hi everyone, I'm Brian Woodward and have been a profesional web debveloper since 2000.
+</div>
 <div><b>Hobbies:</b></br>
 <ul>
   <li>Looking after my allotment, and growing lots of vegetables</li>
