@@ -7,7 +7,7 @@
 </ul>    
 </div>
 
-<a href="https://www.linkedin.com/in/brianjwoodward" alt="Brian Woodward Linkedin profile" target="_blank">https://www.linkedin.com/in/brianjwoodward</a>
+<a href="https://www.linkedin.com/in/brianjwoodward" target="_blank" title="Brian Woodward Linkedin profile">https://www.linkedin.com/in/brianjwoodward</a>
 <!--
 **BJWoodward/BJWoodward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
