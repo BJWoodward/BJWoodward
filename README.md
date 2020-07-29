@@ -1,8 +1,10 @@
 <div><b>About me</b></br>
   Hi everyone, I'm Brian Woodward and have been a profesional web developer since 2000.
 </div>
+</br>
 <div><b>Hobbies:</b></br>
 <ul>
+  <li>Loving my two young children</li>
   <li>Looking after my allotment, and growing lots of vegetables</li>
 </ul>    
 </div>
