@@ -1,5 +1,9 @@
 <div>Hi everyone, I'm Brian Woodward and have been a profesional web debveloper since 2000.</div>
-<div><b>Hobbies:</b></div>
+<div><b>Hobbies:</b></br>
+<ul>
+  <li>Looking after my allotment, and growing lots of vegetables</li>
+</ul>    
+</div>
 <!--
 **BJWoodward/BJWoodward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
