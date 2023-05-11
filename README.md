@@ -4,7 +4,7 @@
 </br>
 <div><b>Hobbies</b></br>
 <ul>
-  <li>Loving my two young children</li>
+  <li>Being Dad</li>
   <li>Looking after my allotment, and growing lots of vegetables</li>
 </ul>    
 </div>
